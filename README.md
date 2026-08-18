@@ -42,8 +42,6 @@ Data for different time granularities and territorial levels were transformed an
 
 ## Data model
 
-The Power BI model combines multiple fact tables with shared dimension tables, allowing analysis by time, region, country of origin and tourism indicators.
-
 Main dimensions:
 - `DimDate`
 - `Dim_Terytorium`
@@ -51,6 +49,15 @@ Main dimensions:
 - `Dim_Wskaźnik`
 
 The model separates monthly and annual statistics where necessary to avoid incorrect aggregation and double counting.
+### Model overview
+
+![Power BI data model](images/data-model.png)
+
+The model uses shared dimension tables across multiple fact tables with different temporal and analytical granularities.
+
+Monthly and annual datasets are kept in separate fact tables where necessary to prevent incorrect aggregation and double counting.
+
+Shared dimensions enable consistent filtering by date, region, country of origin, accommodation type and indicator.
 
 ## Data preparation
 
