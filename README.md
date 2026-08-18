@@ -1,5 +1,8 @@
 # Tourism in Poland 2025 - Power BI
 Interactive Power BI analysis of tourism in Poland based on official Statistics Poland (GUS) data.
+## Live report
+
+[▶ View interactive Power BI report]([https://app.powerbi.com/view?r=eyJrIjoiYjVkZTg1NjgtNzkzZC00NGJlLTgxODMtZDdjMGE1MTc4NDM5IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9&embedImagePlaceholder=true)
 
 ## Dashboard preview
 
