@@ -74,7 +74,6 @@ Examples include:
 - domestic vs international tourist share,
 - year-over-year growth,
 - accommodation occupancy,
-- overnight stays per 1,000 inhabitants,
 - dynamic regional rankings,
 - previous-year comparisons using the Date dimension.
 
