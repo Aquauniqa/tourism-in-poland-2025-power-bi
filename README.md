@@ -23,4 +23,12 @@ The goal was to transform multiple statistical datasets into a clear and interac
 - What is the share of domestic and international tourism?
 - Which countries generate the most foreign visitors?
 - How seasonal is tourism in Poland?
-- How is accommodation capacity distributed across regions?
+- How do accommodation capacity and utilization differ across regions?
+
+## Key insights
+
+- Poland recorded approximately **42.7 million tourists in 2025**, around **10% more than in 2024**.
+- Domestic tourists represented approximately **79% of all visitors**, while international tourists accounted for **21%**.
+- The number of accommodation establishments increased by approximately **7.3%**, indicating faster growth in capacity than in tourism demand.
+- July and August together generated around **30% of annual overnight stays**, confirming strong seasonality.
+- Despite growing tourist volumes, the **average length of stay decreased**, suggesting a shift toward shorter trips.
