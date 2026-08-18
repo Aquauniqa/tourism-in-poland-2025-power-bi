@@ -28,7 +28,7 @@ The goal was to transform multiple statistical datasets into a clear and interac
 ## Key insights
 
 - Poland recorded approximately 42.7 million tourists stayed in registered accommodation establishments in Poland in 2025**, around **10% more than in 2024**..
-- - Domestic tourists accounted for approximately **79% of tourists using accommodation establishments**, compared with **21% international tourists**.
+- Domestic tourists accounted for approximately **79% of tourists using accommodation establishments**, compared with **21% international tourists**.
 - The number of accommodation establishments increased by approximately **7.3%**, indicating faster growth in capacity than in tourism demand.
 - July and August together generated around **30% of annual overnight stays**, confirming strong seasonality.
 - Despite growing tourist volumes, the **average length of stay decreased**, suggesting a shift toward shorter trips.
