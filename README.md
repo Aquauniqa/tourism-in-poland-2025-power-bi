@@ -40,3 +40,15 @@ The analysis is based on official data from **Statistics Poland (GUS)**, primari
 The datasets cover tourism demand, domestic and international tourists, overnight stays, accommodation establishments, occupancy rates and regional population statistics.
 
 Data for different time granularities and territorial levels were transformed and integrated in Power Query before being loaded into the Power BI data model.
+
+## Data model
+
+The Power BI model combines multiple fact tables with shared dimension tables, allowing analysis by time, region, country of origin and tourism indicators.
+
+Main dimensions:
+- `DimDate`
+- `Dim_Terytorium`
+- `Dim_Kraje`
+- `Dim_Wskaźnik`
+
+The model separates monthly and annual statistics where necessary to avoid incorrect aggregation and double counting.
