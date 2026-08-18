@@ -1,2 +1,3 @@
-# tourism-in-poland-2025-power-bi
-Power BI anaysis of tourism on Poland based on Statistics Poland data.
+# Tourism in Poland 2025- powerBi
+Interactive Power BI analysis of tourism in Poland based on official Statistics Poland (GUS) data.
+
