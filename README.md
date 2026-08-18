@@ -27,8 +27,16 @@ The goal was to transform multiple statistical datasets into a clear and interac
 
 ## Key insights
 
-- Poland recorded approximately **42.7 million tourists in 2025**, around **10% more than in 2024**.
-- Domestic tourists represented approximately **79% of all visitors**, while international tourists accounted for **21%**.
+- Poland recorded approximately 42.7 million tourists stayed in registered accommodation establishments in Poland in 2025**, around **10% more than in 2024**..
+- - Domestic tourists accounted for approximately **79% of tourists using accommodation establishments**, compared with **21% international tourists**.
 - The number of accommodation establishments increased by approximately **7.3%**, indicating faster growth in capacity than in tourism demand.
 - July and August together generated around **30% of annual overnight stays**, confirming strong seasonality.
 - Despite growing tourist volumes, the **average length of stay decreased**, suggesting a shift toward shorter trips.
+
+## Data source
+
+The analysis is based on official data from **Statistics Poland (GUS)**, primarily from the Local Data Bank (BDL).
+
+The datasets cover tourism demand, domestic and international tourists, overnight stays, accommodation establishments, occupancy rates and regional population statistics.
+
+Data for different time granularities and territorial levels were transformed and integrated in Power Query before being loaded into the Power BI data model.
