@@ -6,7 +6,7 @@ Interactive Power BI analysis of tourism in Poland based on official Statistics 
 
 ## Dashboard preview
 
-![Tourism in Poland 2025 Power BI dashboard](images/overview.png)
+![Tourism in Poland 2025 Power BI dashboard](overview.png)
 
 ## Project overview
 
